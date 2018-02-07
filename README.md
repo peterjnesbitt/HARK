@@ -24,13 +24,13 @@ to it yourself.  This document will tell you how to get HARK up and
 running on your machine, and what you will find in HARK once you do.
 
 If you have any comments on the code or documentation, we'd love to
-hear from you!  Our email addresses are:
+hear from you!  Our team consists of:
 
-* Chris Carroll: ccarroll@llorracc.org
-* Matthew White: mnwhite@gmail.com
-* Nathan Palmer: Nathan.Palmer@ofr.treasury.gov
-* David Low: David.Low@cfpb.gov
-* Alexander Kaufman: akaufman10@gmail.com
+* Chris Carroll
+* Matthew White
+* Nathan Palmer
+* David Low
+* Alexander Kaufman
 
 GitHub repository:    https://github.com/econ-ark/HARK
 
